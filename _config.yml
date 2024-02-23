@@ -13,12 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Algorithms
-tagline: Algorithms FALL 2023
-description: Course Website for Algorithms at SHNU in FALL 2023
+title: Linear Algebra
+tagline: Linear Algebra SPRING 2024
+description: Course Website for Linear Algebra at SHNU in SPRING 2025
 author: Qizhe Yang
 baseurl: '/' # the subpath of your site, e.g. /blog
-url: 'https://www.algo2023w.spacepenguin.com.cn' # the base hostname & protocol for your site, e.g. http://example.com
+url: 'https://www.la2024s.spacepenguin.com.cn' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
 # Theme settings
