@@ -4,13 +4,13 @@ title: Slides
 
 Lec 0
 : **Overview**
-  :  \[[slides-zh](https://basics.sjtu.edu.cn/~yangqizhe/pdf/algo2023w/slides/AlgoLec0-handout-zh.pdf)\]
+  :  \[[slides-zh](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2024s/slides/LALec0-handout-zh.pdf)\]
 
 Lec 1
-: **Fundamentals(I)**
-  :  \[[slides-zh](https://basics.sjtu.edu.cn/~yangqizhe/pdf/algo2023w/slides/AlgoLec1-handout-zh.pdf)\]
-%:  **HW**{: .label .label-red }Released: [Homework #1](https://basics.sjtu.edu.cn/~yangqizhe/pdf/algo2023w/homework/Algo-hw1.pdf)  
-
+: **Introduction to Vectors**
+  :  \[[slides-zh](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2024s/slides/LALec1-handout-zh.pdf)\]
+<--:  **HW**{: .label .label-red }Released: [Homework #1](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2024s/homework/LA-hw1.pdf)  **DUE**{: .label .label-yellow} Sep 25  23:59
+-->
 
 
 
