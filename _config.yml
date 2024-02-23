@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Linear Algebra
 tagline: Linear Algebra SPRING 2024
-description: Course Website for Linear Algebra at SHNU in SPRING 2025
+description: Course Website for Linear Algebra at SHNU in SPRING 2024
 author: Qizhe Yang
 baseurl: '/' # the subpath of your site, e.g. /blog
 url: 'https://www.la2024s.spacepenguin.com.cn' # the base hostname & protocol for your site, e.g. http://example.com
