@@ -17,35 +17,28 @@ description: >-
 ---
 ## Overview
 
-In this course, our aim is to present various algorithms for numerous 'standard' algorithmic problems. We will illustrate both algorithm design techniques and the methods employed in algorithm analysis. Moreover, since this course is designed for senior undergraduates, we will provide an introduction to notable subfields within algorithmic research, thereby offering potential directions for further study.
+In this course, our aim is to explain this beautiful and useful part of mathematics. We' ll start with solving linear equations $A\mathbf{x}=\mathbf{b}$. The vector of $A\mathbf{x}$ is a linear combination of the columns of $A$. By solving the equations, We'll introduce the four fundamental subspaces for the matrix $A$. Then we'll explain the fundamental theorem of linear algebra. Also we'll show some applications.
 
 By the end of the course, students will learn:
--  the application of fundamental algorithm design techniques.
--  the main theoretical tools used in the analysis of algorithms
--  the ability for desigining algorithms for some algorithmic problems.
--  the ability for analysing given algorithms.
--  an outline of the notable subfields within algorithmic research.
+-  The row and column picture of $A\mathbf{x}=\mathbf{b}$, and hence the elimination in the beautiful form $A=LU$.
+-  The concept of subspace and the four fundamental subspaces for the matrix $A$. 
+-  Determinants.
+-  Eigenvalues and eigenvectors.
+-  Linear transformations.
+-  Singular value decomposition.(SVD)
+-  Applications of linear algebra.
 
 
 ## Policies
 
 ### Cheating
 
-You are encouraged to collaborate with your classmates or utilize online resources for any homework, program assignments, or bonus points. Actually, you can also ask for the instructor. **However, directly copying and pasting code or answers is prohibited.** If I ask you how your code works or why your answers are correct 
+You are encouraged to collaborate with your classmates or utilize online resources for any homework. Actually, you can also ask for the instructor. **However, directly copying and pasting code or answers is prohibited.** If I ask you how you proved or  why your answers are correct 
 and you do not know, it will be evident that you have copied it. Don’t take the risk. 
 
 ### Homework
 
-The **HW**{:.label.label-red}, will be released once a week. The main content is the design of algorithms for certain problems and the corresponding algorithm analysis. Please submit the solution via the email <qzyang@shnu.edu.cn>.
-
-**Please note that late submissions will incur a 25% penalty.**
-
-
-### Program Assignments
-
-The **PA**{:.label.label-blue} will also be released once a week. We will use the problem on [Leet Code](https://leetcode.cn/).   Please submit the solution via the email <qzyang@shnu.edu.cn>. Here is a sample submission [sample](https://basics.sjtu.edu.cn/~yangqizhe/pdf/algo2023w/homework/sample.pdf).
-
-After each program assignment, the instructor will randomly select one student to present their solutions to the class.
+The **HW**{:.label.label-red} will be released once a week. 
 
 **Please note that late submissions will incur a 25% penalty.**
 
@@ -53,42 +46,31 @@ After each program assignment, the instructor will randomly select one student t
 
 This course will have only one exam, the final exam. The more information will be decided later.
 
-### Bonus Points
-
-TBA.
-
 ### Grades
 
-Students' grades**Grade**{:.label.label-green} will be determined by the following components:
+Students' grades**Grade**{:.label.label-green} will be determined by the following  two components:
 -  Homework**HW**{:.label.label-red},
--  Program Assignments**PA**{:.label.label-blue} ,
 -  Final Exam**Exam**{:.label.label-green},
--  Bonus Points**Bonus**{:.label.label-green}.
+
 
 The final grade will be calculated using the following equation:
 
-: **Grade**{:.label.label-green} = MIN{25%* **HW**{:.label.label-red} + 15%* **PA**{:.label.label-blue}+ 60%* **Exam**{:.label.label-green} +5%* **Bonus**{:.label.label-green} ,100}
-
-
+: **Grade**{:.label.label-green} = 40%* **HW**{:.label.label-green} +  60%* **Exam**{:.label.label-green} 
 ## Resources
 
-This course website, [Algorithms](../), will be your one-stop resource for the syllabus, schedule and homework links. 
+This course website, [Linear Algebra](../), will be your one-stop resource for the syllabus, schedule and homework links. 
 
 
-**LeetCode**
 
-[Leet Code](https://leetcode.cn/) is an online platform that offers a wide array of coding challenges and problems, primarily focused on helping individuals improve their programming and problem-solving skills. We will use the website to complete our program assignments.
 
 **Reference**
 
 Here're some recommended books：
 
-- [1]  M.H. Alsuwaiyel. [*Algorithms: design techniques and analysis*](https://books.google.com/books?hl=zh-CN&lr=&id=h7lTEAAAQBAJ&oi=fnd&pg=PR7&dq=Algorithms:+design+techniques+and+analysis&ots=g4TAKwqlgH&sig=42c0mAO3KVTB_GnpLSgnqPXcu7w#v=onepage&q=Algorithms%3A%20design%20techniques%20and%20analysis&f=false).
-- [2]  S. Dasgupta, C. H. Papadimitriou, U. V. Vazirani. [*Algorithms*](https://www.google.com/books/edition/Algorithms/3sCxQgAACAAJ?hl=zh-CN&bshm=rimc/1)
-- [3]  T. Cormen, C. Leiserson, R. Rivest, and C. Stein. [*Introduction to Algorithms*](https://www.google.com/books/edition/Introduction_to_Algorithms_third_edition/i-bUBQAAQBAJ?hl=zh-CN&gbpv=0&bshm=rimc/1)
-- [4]  R. Sedgewick, K. Wayne. [*Algorithms*](https://www.google.com/books/edition/Algorithms/MTpsAQAAQBAJ?hl=zh-CN&gbpv=0&bshm=rimc/1)
-- [5]  Jeff Erickson. [*Algorithms*](http://jeffe.cs.illinois.edu/teaching/algorithms/#book)
-- [6]  王晓东。 [*计算机算法设计与分析*](https://baike.baidu.com/item/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%AE%97%E6%B3%95%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%88%86%E6%9E%90%EF%BC%88%E7%AC%AC5%E7%89%88%EF%BC%89/23263651?fr=ge_ala)
-- [7]  屈婉玲，刘田，张立昂，王捍贫。[*算法设计与分析*](https://baike.baidu.com/item/%E7%AE%97%E6%B3%95%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%88%86%E6%9E%90/18682937?fr=ge_ala)
+- [1]  Gilbert Strang.  [*Introduction to Linear Algebra*](https://math.mit.edu/~gs/linearalgebra/ila5/indexila5.html).
+- [2]  同济大学数学科学学院。 [*工程数学线性代数(第7版)*](https://book.douban.com/subject/36351492/)
 
+Some online resources:
 
+- [1] [MIT 18.06](https://web.mit.edu/18.06/www/)
+- [2] [MIT线性代数公开课B站搬运](https://www.bilibili.com/video/BV16Z4y1U7oU/?spm_id_from=333.999.0.0&vd_source=6f21dba12428862912661fb9503ccfcb)

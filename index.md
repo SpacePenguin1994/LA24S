@@ -19,9 +19,14 @@ seo:
 
 ## About the Class
 
-Turing Award awardee [Knuth](https://en.wikipedia.org/wiki/Donald_Knuth) once said, "Computer Science is the study of algorithms". Even though the speed of computers is now so fast that we might even question whether Moore's Law still holds true, the significance of an efficient algorithm remains essential for us. 
+Linear algebra is the branch of mathematics concerning linear equations such as:
+- $a_1x_1 + a_2x_2 + \cdots + a_nx_n = b$,
 
-Therefore, in this course, we aim to present various algorithms for numerous 'standard' algorithmic problems. We will illustrate both algorithm design techniques and the methods employed in algorithm analysis. By the end of the course, students will attain proficiency in applying fundamental algorithm design techniques and will become acquainted with the key theoretical instruments utilized in algorithm analysis. Moreover, since this course is designed for senior undergraduates, we will provide an introduction to notable subfields within algorithmic research, thereby offering potential directions for further study.
+linear maps such as:
+
+- $(x_1,\ldots,x_n)\rightarrow a_1x_1 + a_2x_2 + \cdots + a_nx_n$
+
+In fact, it's central to almost all areas of mathematics. In this course, we will follow the idea of solving linear equations $A\mathbf{x}=\mathbf{b}$ and introduce the four fundamental subspaces for the matrix $A$. Hence we'll show the fundamental theorem of linear algebra.
 
 Enjoy the class!
 
@@ -31,8 +36,15 @@ See the [Syllabus page](syllabus.md) for more details on course policies.
 
 **Instructor:** [Qizhe Yang](https://basics.sjtu.edu.cn/~yangqizhe/), qzyang(at)shnu.edu.cn
 
-**Time and Location:** &ensp;&nbsp;9:45 a.m.- 11:15 a.m. &nbsp;Every Monday in Week 1-16, <font color="#dd0000"> 奉贤3教楼308</font> 
- <br/>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;13:00 p.m.- 14:30 p.m. Every Friday in Week 1-8，&emsp; 奉贤3教楼312
+**Time and Location:**
+
+- For the class 1 of Computer Science and Technology (Teaching Training):
+  - &ensp;&nbsp;8:00 a.m.- 9:30 a.m. &nbsp;Every Monday in Week 1-16, &nbsp;&nbsp;&nbsp;&nbsp;&thinsp; 奉贤3教楼316
+  - &ensp;&nbsp;8:00 a.m.- 9:30 a.m. &nbsp;Every <font color="#dd0000">odd Friday</font> in Week 1-15，奉贤3教楼101
+- For the class 1 of Electronic Information:
+  - &ensp;&nbsp;13:00 p.m.- 14:30 p.m. &nbsp;Every Monday in Week 1-16, &emsp;&ensp;&nbsp;&thinsp;&thinsp;奉贤3教楼416
+  - &ensp;&nbsp;8:00 a.m.- 9:30 a.m. &emsp;&nbsp; Every <font color="#dd0000">even Friday</font> in Week 2-16， 奉贤3教楼112
+
 
  For more details about the class, see the [Schedule page](schedule.md).
 

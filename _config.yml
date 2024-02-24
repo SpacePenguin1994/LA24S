@@ -30,6 +30,7 @@ permalink: pretty
 aux_links:
 aux_links_new_tab: true
 footer_content:
+markdown: kramdown
 
 # Collections for website data
 collections:
