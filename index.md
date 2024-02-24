@@ -53,7 +53,7 @@ See the [Syllabus page](syllabus.md) for more details on course policies.
 
 We have set up a course questionnaire:
 
-- [《线性代数》课程调查问卷](https://www.wjx.cn/vm/eDmAYfp.aspx#)
+- [《线性代数》课程调查问卷](https://www.wjx.cn/vm/tU88Sco.aspx)
 
 Everyone is welcome to submit his/her questions or suggestions about this course.
 
