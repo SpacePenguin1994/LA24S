@@ -14,8 +14,19 @@ Lec 1
 
 Lec 2
 : **Solving Linear Equations(I)**
+  :  \[[slides-zh](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2024s/slides/LALec2-handout-zh.pdf)\]  
 
-
-
+Lec 3
+: **Matrices and Vector Space(I)**
   
+Lec 4
+: **Matrices and Vector Space(II)**
 
+Lec 5
+: **Independence, Basis and Dimension**
+
+Lec 6
+: **Column Rank and Row Rank of Matrices**
+
+Lec 7
+: **Solving Linear Equations(II)**
