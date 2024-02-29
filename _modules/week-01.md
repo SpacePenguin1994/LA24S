@@ -17,10 +17,11 @@ Lec 2
   :  \[[slides-zh](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2024s/slides/LALec2-handout-zh.pdf)\]  
 
 Lec 3
-: **Matrices and Vector Space(I)**
-  
+: **Matrices**
+  :  \[[slides-zh](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2024s/slides/LALec3-handout-zh.pdf)\]  
+
 Lec 4
-: **Matrices and Vector Space(II)**
+: **Vector Space**
 
 Lec 5
 : **Independence, Basis and Dimension**
