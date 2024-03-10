@@ -22,6 +22,8 @@ Lec 3
 
 Lec 4
 : **Vector Space**
+  :  \[[slides-zh](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2024s/slides/LALec4-handout-zh.pdf)\]  
+
 
 Lec 5
 : **Independence, Basis and Dimension**
