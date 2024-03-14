@@ -27,9 +27,19 @@ Lec 4
 
 Lec 5
 : **Independence, Basis and Dimension**
+  :  \[[slides-zh](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2024s/slides/LALec5-handout-zh.pdf)\]  
 
 Lec 6
 : **Column Rank and Row Rank of Matrices**
 
 Lec 7
-: **Solving Linear Equations(II)**
+: **Solving Linear Equations(II)-the Complete Solution for $A\mathbf{x}=\mathbf{b}$**
+
+Lec 8
+: **Orthogonality and Projection**
+
+Lec 9
+: **Approximate Solution for $A\mathbf{x}=\mathbf{b}$**
+
+Lec 10
+: **Determinants(I)**
