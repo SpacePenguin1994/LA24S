@@ -32,8 +32,9 @@ Lec 5
 Lec 6
 : **Column Rank and Row Rank of Matrices**
   :  \[[slides-zh](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2024s/slides/LALec6-handout-zh.pdf)\] 
+
 Lec 7
-: **Solving Linear Equations(II)-the Complete Solution for $A\mathbf{x}=\mathbf{b}$**
+: **Solving Linear Equations(II)**
 
 Lec 8
 : **Orthogonality and Projection**
