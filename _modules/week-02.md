@@ -21,3 +21,8 @@ HW 4
 : **For Students of CS:** **HW**{: .label .label-red }Released:[Homework #4](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2024s/homework/LA-hw4forCS.pdf)  
 : **For Students of  EI:**&thinsp;&thinsp; **HW**{: .label .label-red }Released:[Homework #4](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2024s/homework/LA-hw4forEI.pdf)  
 : **DUE**{: .label .label-yellow} Mar 25
+
+HW 5
+: **For Students of CS:** **HW**{: .label .label-red }Released:[Homework #5](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2024s/homework/LA-hw5forCS.pdf)  
+: **For Students of  EI:**&thinsp;&thinsp; **HW**{: .label .label-red }Released:[Homework #5](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2024s/homework/LA-hw5forEI.pdf)  
+: **DUE**{: .label .label-yellow} Apr 1

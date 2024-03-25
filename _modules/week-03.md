@@ -13,3 +13,7 @@ HW 2
 HW 3
 : **For Students of CS:** **HW**{: .label .label-red }Released:[Homework #3-sol](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2024s/homework/LA-hw3forCSsol.pdf)  
 : **For Students of  EI:**&thinsp;&thinsp; **HW**{: .label .label-red }Released:[Homework #3-sol](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2024s/homework/LA-hw3forEIsol.pdf)  
+
+HW 4
+: **For Students of CS:** **HW**{: .label .label-red }Released:[Homework #4-sol](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2024s/homework/LA-hw4forCSsol.pdf)  
+: **For Students of  EI:**&thinsp;&thinsp; **HW**{: .label .label-red }Released:[Homework #4-sol](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2024s/homework/LA-hw4forEIsol.pdf)  
