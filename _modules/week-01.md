@@ -35,6 +35,7 @@ Lec 6
 
 Lec 7
 : **Solving Linear Equations(II)**
+  :  \[[slides-zh](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2024s/slides/LALec7-handout-zh.pdf)\] 
 
 Lec 8
 : **Orthogonality and Projection**
