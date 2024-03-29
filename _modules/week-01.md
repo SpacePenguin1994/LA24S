@@ -9,33 +9,37 @@ Lec 0
 Lec 1
 : **Introduction to Vectors**
   :  \[[slides-zh](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2024s/slides/LALec1-handout-zh.pdf)\]  
-<!--:  **HW**{: .label .label-red }Released: [Homework #1](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2024s/homework/LA-hw1.pdf)  **DUE**{: .label .label-yellow} Sep 25  23:59
--->
+： An worked Example：
 
 Lec 2
 : **Solving Linear Equations(I)**
   :  \[[slides-zh](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2024s/slides/LALec2-handout-zh.pdf)\]  
+： An worked Example：
 
 Lec 3
 : **Matrices**
   :  \[[slides-zh](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2024s/slides/LALec3-handout-zh.pdf)\]  
+： An worked Example：
 
 Lec 4
 : **Vector Space**
   :  \[[slides-zh](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2024s/slides/LALec4-handout-zh.pdf)\]  
-
+： An worked Example: [Lec4-WorkedExample](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2024s/slides/LA4-sample.pdf)
 
 Lec 5
 : **Independence, Basis and Dimension**
   :  \[[slides-zh](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2024s/slides/LALec5-handout-zh.pdf)\]  
+： An worked Example: [Lec5-WorkedExample](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2024s/slides/LA5-sample.pdf)
 
 Lec 6
 : **Column Rank and Row Rank of Matrices**
   :  \[[slides-zh](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2024s/slides/LALec6-handout-zh.pdf)\] 
+： An worked Example：
 
 Lec 7
 : **Solving Linear Equations(II)**
   :  \[[slides-zh](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2024s/slides/LALec7-handout-zh.pdf)\] 
+： An worked Example：
 
 Lec 8
 : **Orthogonality and Projection**
