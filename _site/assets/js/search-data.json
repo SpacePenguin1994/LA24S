@@ -6,101 +6,227 @@
     "relUrl": "/announcements/"
   },"1": {
     "doc": "Announcements",
+    "title": "Week 5 Announcement",
+    "content": "Mar 28 &middot; 0 min read Hello, everyone. The solution of Homework #4 for CS and Homework #4 for EI has some mistakes in Problem 1,4 and 6. I have updated the corrected solution. Please check it again. Sorry for the inconvenience. See more information in Schedule. ",
+    "url": "http://localhost:4000/announcements/",
+    "relUrl": "/announcements/"
+  },"2": {
+    "doc": "Announcements",
+    "title": "Week 5 Announcement",
+    "content": "Mar 25 &middot; 0 min read Hello, everyone! . | The solution for Homework #4 for CS and Homework #4 for EI are now available. | I have updated both the solution for problem 1 in Homework #1 for CS and Homework #1 for EI. | . See more information in Schedule. ",
+    "url": "http://localhost:4000/announcements/",
+    "relUrl": "/announcements/"
+  },"3": {
+    "doc": "Announcements",
+    "title": "Week 5 Announcement",
+    "content": "Mar 25 &middot; 0 min read Hello, everyone! . | Homework #5 for CS and Homework #5 for EI are now available. See more information in Schedule. | . ",
+    "url": "http://localhost:4000/announcements/",
+    "relUrl": "/announcements/"
+  },"4": {
+    "doc": "Announcements",
+    "title": "Week 4 Announcement",
+    "content": "Mar 18 &middot; 0 min read Hello, everyone! . | The solution for Homework #3 for CS and Homework #3 for EI are now available. See more information in Schedule. | . ",
+    "url": "http://localhost:4000/announcements/",
+    "relUrl": "/announcements/"
+  },"5": {
+    "doc": "Announcements",
+    "title": "Week 4 Announcement",
+    "content": "Mar 18 &middot; 0 min read Hello, everyone! . | Homework #4 for CS and Homework #4 for EI are now available. See more information in Schedule. | . ",
+    "url": "http://localhost:4000/announcements/",
+    "relUrl": "/announcements/"
+  },"6": {
+    "doc": "Announcements",
+    "title": "Week 3 Announcement",
+    "content": "Mar 13 &middot; 0 min read Hello, everyone! . | The solution for Homework #2 for CS and Homework #2 for EI are now available. See more information in Schedule. | . ",
+    "url": "http://localhost:4000/announcements/",
+    "relUrl": "/announcements/"
+  },"7": {
+    "doc": "Announcements",
+    "title": "Week 3 Announcement",
+    "content": "Mar 11 &middot; 0 min read Hello, everyone! . | Homework #3 for CS and Homework #3 for EI are now available. See more information in Schedule. | . ",
+    "url": "http://localhost:4000/announcements/",
+    "relUrl": "/announcements/"
+  },"8": {
+    "doc": "Announcements",
+    "title": "Week 2 Announcement",
+    "content": "Mar 5 &middot; 0 min read Hello, everyone! . | The solution for Homework #1 for CS and Homework #1 for EI are now available. See more information in Schedule. | . ",
+    "url": "http://localhost:4000/announcements/",
+    "relUrl": "/announcements/"
+  },"9": {
+    "doc": "Announcements",
+    "title": "Week 2 Announcement",
+    "content": "Mar 4 &middot; 0 min read Hello, everyone! . | Homework #2 for CS and Homework #2 for EI are now available. See more information in Schedule. | . ",
+    "url": "http://localhost:4000/announcements/",
+    "relUrl": "/announcements/"
+  },"10": {
+    "doc": "Announcements",
+    "title": "Week 1 Announcement",
+    "content": "Feb 26 &middot; 0 min read Hello, everyone! . | Homework #1 for CS and Homework #1 for EI are now available. See more information in Schedule. | . ",
+    "url": "http://localhost:4000/announcements/",
+    "relUrl": "/announcements/"
+  },"11": {
+    "doc": "Announcements",
     "title": "Week 0 Announcement",
     "content": "Feb 23 &middot; 0 min read Welcome to the course of Linear Algebra! . ",
     "url": "http://localhost:4000/announcements/",
     "relUrl": "/announcements/"
-  },"2": {
+  },"12": {
     "doc": "Home",
     "title": "Linear Algebra SPRING 2024",
     "content": "Course Website for Linear Algebra at SHNU in SPRING 2024 . ",
     "url": "http://localhost:4000/#linear-algebra-spring-2024",
     "relUrl": "/#linear-algebra-spring-2024"
-  },"3": {
+  },"13": {
     "doc": "Home",
-    "title": "Week 0 Announcement",
-    "content": "Feb 23 &middot; 0 min read Welcome to the course of Linear Algebra! . [Announcements](/announcements/){: .btn .btn-outline .fs-3 } --> ",
+    "title": "Week 5 Announcement",
+    "content": "Mar 28 &middot; 0 min read Hello, everyone. The solution of Homework #4 for CS and Homework #4 for EI has some mistakes in Problem 1,4 and 6. I have updated the corrected solution. Please check it again. Sorry for the inconvenience. See more information in Schedule. [Announcements](/announcements/){: .btn .btn-outline .fs-3 } --> ",
     "url": "http://localhost:4000/",
     "relUrl": "/"
-  },"4": {
+  },"14": {
     "doc": "Home",
     "title": "About the Class",
     "content": "Linear algebra is the branch of mathematics concerning linear equations such as: . | $a_1x_1 + a_2x_2 + \\cdots + a_nx_n = b$, | . linear maps such as: . | $(x_1,\\ldots,x_n)\\rightarrow a_1x_1 + a_2x_2 + \\cdots + a_nx_n$ | . In fact, it’s central to almost all areas of mathematics. In this course, we will follow the idea of solving linear equations $A\\mathbf{x}=\\mathbf{b}$ and introduce the four fundamental subspaces for the matrix $A$. Hence we’ll show the fundamental theorem of linear algebra. Enjoy the class! . See the Syllabus page for more details on course policies. ",
     "url": "http://localhost:4000/#about-the-class",
     "relUrl": "/#about-the-class"
-  },"5": {
+  },"15": {
     "doc": "Home",
     "title": "General Information",
     "content": "Instructor: Qizhe Yang, qzyang(at)shnu.edu.cn . Time and Location: . | For the class 1 of Computer Science and Technology (Teaching Training): . |   8:00 a.m.- 9:30 a.m.  Every Monday in Week 1-16,       奉贤3教楼316 |   8:00 a.m.- 9:30 a.m.  Every odd Friday in Week 1-15，奉贤3教楼101 | . | For the class 1 of Electronic Information: . |   13:00 p.m.- 14:30 p.m.  Every Monday in Week 1-16,      奉贤3教楼416 |   8:00 a.m.- 9:30 a.m.    Every even Friday in Week 2-16， 奉贤3教楼112 | . | . For more details about the class, see the Schedule page. ",
     "url": "http://localhost:4000/#general-information",
     "relUrl": "/#general-information"
-  },"6": {
+  },"16": {
     "doc": "Home",
     "title": "Course Feedback",
     "content": "We have set up a course questionnaire: . | 《线性代数》课程调查问卷 | . Everyone is welcome to submit his/her questions or suggestions about this course. ",
     "url": "http://localhost:4000/#course-feedback",
     "relUrl": "/#course-feedback"
-  },"7": {
+  },"17": {
     "doc": "Home",
     "title": "Announcements",
     "content": " ",
     "url": "http://localhost:4000/#announcements",
     "relUrl": "/#announcements"
-  },"8": {
+  },"18": {
+    "doc": "Home",
+    "title": "Week 5 Announcement",
+    "content": "Mar 28 &middot; 0 min read Hello, everyone. The solution of Homework #4 for CS and Homework #4 for EI has some mistakes in Problem 1,4 and 6. I have updated the corrected solution. Please check it again. Sorry for the inconvenience. See more information in Schedule. ",
+    "url": "http://localhost:4000/",
+    "relUrl": "/"
+  },"19": {
+    "doc": "Home",
+    "title": "Week 5 Announcement",
+    "content": "Mar 25 &middot; 0 min read Hello, everyone! . | The solution for Homework #4 for CS and Homework #4 for EI are now available. | I have updated both the solution for problem 1 in Homework #1 for CS and Homework #1 for EI. | . See more information in Schedule. ",
+    "url": "http://localhost:4000/",
+    "relUrl": "/"
+  },"20": {
+    "doc": "Home",
+    "title": "Week 5 Announcement",
+    "content": "Mar 25 &middot; 0 min read Hello, everyone! . | Homework #5 for CS and Homework #5 for EI are now available. See more information in Schedule. | . ",
+    "url": "http://localhost:4000/",
+    "relUrl": "/"
+  },"21": {
+    "doc": "Home",
+    "title": "Week 4 Announcement",
+    "content": "Mar 18 &middot; 0 min read Hello, everyone! . | The solution for Homework #3 for CS and Homework #3 for EI are now available. See more information in Schedule. | . ",
+    "url": "http://localhost:4000/",
+    "relUrl": "/"
+  },"22": {
+    "doc": "Home",
+    "title": "Week 4 Announcement",
+    "content": "Mar 18 &middot; 0 min read Hello, everyone! . | Homework #4 for CS and Homework #4 for EI are now available. See more information in Schedule. | . ",
+    "url": "http://localhost:4000/",
+    "relUrl": "/"
+  },"23": {
+    "doc": "Home",
+    "title": "Week 3 Announcement",
+    "content": "Mar 13 &middot; 0 min read Hello, everyone! . | The solution for Homework #2 for CS and Homework #2 for EI are now available. See more information in Schedule. | . ",
+    "url": "http://localhost:4000/",
+    "relUrl": "/"
+  },"24": {
+    "doc": "Home",
+    "title": "Week 3 Announcement",
+    "content": "Mar 11 &middot; 0 min read Hello, everyone! . | Homework #3 for CS and Homework #3 for EI are now available. See more information in Schedule. | . ",
+    "url": "http://localhost:4000/",
+    "relUrl": "/"
+  },"25": {
+    "doc": "Home",
+    "title": "Week 2 Announcement",
+    "content": "Mar 5 &middot; 0 min read Hello, everyone! . | The solution for Homework #1 for CS and Homework #1 for EI are now available. See more information in Schedule. | . ",
+    "url": "http://localhost:4000/",
+    "relUrl": "/"
+  },"26": {
+    "doc": "Home",
+    "title": "Week 2 Announcement",
+    "content": "Mar 4 &middot; 0 min read Hello, everyone! . | Homework #2 for CS and Homework #2 for EI are now available. See more information in Schedule. | . ",
+    "url": "http://localhost:4000/",
+    "relUrl": "/"
+  },"27": {
+    "doc": "Home",
+    "title": "Week 1 Announcement",
+    "content": "Feb 26 &middot; 0 min read Hello, everyone! . | Homework #1 for CS and Homework #1 for EI are now available. See more information in Schedule. | . ",
+    "url": "http://localhost:4000/",
+    "relUrl": "/"
+  },"28": {
     "doc": "Home",
     "title": "Week 0 Announcement",
     "content": "Feb 23 &middot; 0 min read Welcome to the course of Linear Algebra! . ",
     "url": "http://localhost:4000/",
     "relUrl": "/"
-  },"9": {
+  },"29": {
     "doc": "Home",
     "title": "Home",
     "content": " ",
     "url": "http://localhost:4000/",
     "relUrl": "/"
-  },"10": {
+  },"30": {
     "doc": "Schedule",
     "title": "Schedule",
     "content": "This schedule outlines all topics of the course and has links to all lecture slides and homeworks. ",
     "url": "http://localhost:4000/schedule/",
     "relUrl": "/schedule/"
-  },"11": {
+  },"31": {
     "doc": "Schedule",
     "title": "Lectuer Slides",
-    "content": "Lec 0 Overview [slides-zh] Lec 1 Introduction to Vectors [slides-zh] Lec 2 Solving Linear Equations(I) ",
+    "content": "Lec 0 Overview [slides-zh] Lec 1 Introduction to Vectors [slides-zh] An worked Example： Lec 2 Solving Linear Equations(I) [slides-zh] An worked Example： Lec 3 Matrices [slides-zh] ： An worked Example： Lec 4 Vector Space [slides-zh] An worked Example: Lec4-WorkedExample Lec 5 Independence, Basis and Dimension [slides-zh] An worked Example: Lec5-WorkedExample Lec 6 Column Rank and Row Rank of Matrices [slides-zh] An worked Example： Lec 7 Solving Linear Equations(II) [slides-zh] An worked Example： Lec 8 Orthogonality and Projection Lec 9 Approximate Solution for $A\\mathbf{x}=\\mathbf{b}$ Lec 10 Determinants(I) ",
     "url": "http://localhost:4000/schedule/#lectuer-slides",
     "relUrl": "/schedule/#lectuer-slides"
-  },"12": {
+  },"32": {
     "doc": "Schedule",
     "title": "Homework",
-    "content": "HW 1 For Students of CS: HWReleased:Homework #1 For Students of EI:   HWReleased:Homework #1 DUE Mar 4 ",
+    "content": "HW 1 For Students of CS: HWReleased:Homework #1 For Students of EI:   HWReleased:Homework #1 DUE Mar 4 HW 2 For Students of CS: HWReleased:Homework #2 For Students of EI:   HWReleased:Homework #2 DUE Mar 11 HW 3 For Students of CS: HWReleased:Homework #3 For Students of EI:   HWReleased:Homework #3 DUE Mar 18 HW 4 For Students of CS: HWReleased:Homework #4 For Students of EI:   HWReleased:Homework #4 DUE Mar 25 HW 5 For Students of CS: HWReleased:Homework #5 For Students of EI:   HWReleased:Homework #5 DUE Apr 1 ",
     "url": "http://localhost:4000/schedule/#homework",
     "relUrl": "/schedule/#homework"
-  },"13": {
+  },"33": {
+    "doc": "Schedule",
+    "title": "Homework Solution",
+    "content": "HW 1 For Students of CS: HWReleased:Homework #1-sol For Students of EI:   HWReleased:Homework #1-sol HW 2 For Students of CS: HWReleased:Homework #2-sol For Students of EI:   HWReleased:Homework #2-sol HW 3 For Students of CS: HWReleased:Homework #3-sol For Students of EI:   HWReleased:Homework #3-sol HW 4 For Students of CS: HWReleased:Homework #4-sol For Students of EI:   HWReleased:Homework #4-sol ",
+    "url": "http://localhost:4000/schedule/#homework-solution",
+    "relUrl": "/schedule/#homework-solution"
+  },"34": {
     "doc": "Syllabus",
     "title": "Syllabus",
     "content": " ",
     "url": "http://localhost:4000/syllabus/",
     "relUrl": "/syllabus/"
-  },"14": {
+  },"35": {
     "doc": "Syllabus",
     "title": "Table of contents",
     "content": ". | Overview | Policies . | Cheating | Homework | Final Exam | Grades | . | Resources | . ",
     "url": "http://localhost:4000/syllabus/#table-of-contents",
     "relUrl": "/syllabus/#table-of-contents"
-  },"15": {
+  },"36": {
     "doc": "Syllabus",
     "title": "Overview",
     "content": "In this course, our aim is to explain this beautiful and useful part of mathematics. We’ ll start with solving linear equations $A\\mathbf{x}=\\mathbf{b}$. The vector of $A\\mathbf{x}$ is a linear combination of the columns of $A$. By solving the equations, We’ll introduce the four fundamental subspaces for the matrix $A$. Then we’ll explain the fundamental theorem of linear algebra. Also we’ll show some applications. By the end of the course, students will learn: . | The row and column picture of $A\\mathbf{x}=\\mathbf{b}$, and hence the elimination in the beautiful form $A=LU$. | The concept of subspace and the four fundamental subspaces for the matrix $A$. | Determinants. | Eigenvalues and eigenvectors. | Linear transformations. | Singular value decomposition.(SVD) | Applications of linear algebra. | . ",
     "url": "http://localhost:4000/syllabus/#overview",
     "relUrl": "/syllabus/#overview"
-  },"16": {
+  },"37": {
     "doc": "Syllabus",
     "title": "Policies",
     "content": "Cheating . You are encouraged to collaborate with your classmates or utilize online resources for any homework. Actually, you can also ask for the instructor. However, directly copying and pasting code or answers is prohibited. If I ask you how you proved or why your answers are correct and you do not know, it will be evident that you have copied it. Don’t take the risk. Homework . The HW will be released once a week. Please note that late submissions will incur a 25% penalty. Final Exam . This course will have only one exam, the final exam. The more information will be decided later. Grades . Students’ gradesGrade will be determined by the following two components: . | HomeworkHW, | Final ExamExam, | . The final grade will be calculated using the following equation: Grade = 40%* HW + 60%* Exam . ",
     "url": "http://localhost:4000/syllabus/#policies",
     "relUrl": "/syllabus/#policies"
-  },"17": {
+  },"38": {
     "doc": "Syllabus",
     "title": "Resources",
     "content": "This course website, Linear Algebra, will be your one-stop resource for the syllabus, schedule and homework links. Reference . Here’re some recommended books： . | [1] Gilbert Strang. Introduction to Linear Algebra. | [2] 同济大学数学科学学院。 工程数学线性代数(第7版) | . Some online resources: . | [1] MIT 18.06 | [2] MIT线性代数公开课B站搬运 | . ",
