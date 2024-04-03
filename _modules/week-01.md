@@ -43,6 +43,8 @@ Lec 7
 
 Lec 8
 : **Orthogonality and Projection**
+  :  \[[slides-zh](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2024s/slides/LALec8-handout-zh.pdf)\] 
+: An worked Example：
 
 Lec 9
 : **Approximate Solution for $A\mathbf{x}=\mathbf{b}$**
