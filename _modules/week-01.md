@@ -47,7 +47,9 @@ Lec 8
 : An worked Example：
 
 Lec 9
-: **Approximate Solution for $A\mathbf{x}=\mathbf{b}$**
+: **Least Square Approximations and Orthonormal Bases**
+  :  \[[slides-zh](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2024s/slides/LALec9-handout-zh.pdf)\] 
+: An worked Example：
 
 Lec 10
 : **Determinants(I)**
