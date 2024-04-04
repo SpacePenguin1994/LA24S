@@ -34,7 +34,7 @@ Lec 5
 Lec 6
 : **Column Rank and Row Rank of Matrices**
   :  \[[slides-zh](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2024s/slides/LALec6-handout-zh.pdf)\] 
-: An worked Example：[Lec6-WorkedExample](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2024s/slides/LA6-sample.pdf)
+: An worked Example: [Lec6-WorkedExample](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2024s/slides/LA6-sample.pdf)
 
 Lec 7
 : **Solving Linear Equations(II)**
@@ -53,3 +53,15 @@ Lec 9
 
 Lec 10
 : **Determinants(I)**
+
+Lec 11
+: **Determinants(II)**
+
+Lec 12
+: **Eigenvalues and Eigenvectors**
+
+Lec 13
+: **Symmetric Matrices and Positive Definite Matrices**
+
+Lec 14
+: **Linear Transformations**
