@@ -9,17 +9,17 @@ Lec 0
 Lec 1
 : **Introduction to Vectors**
   :  \[[slides-zh](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2024s/slides/LALec1-handout-zh.pdf)\]  
-: An worked Example：[Lec1-WorkedExample](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2024s/slides/LA1-sample.pdf)
+: An worked Example: [Lec1-WorkedExample](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2024s/slides/LA1-sample.pdf)
 
 Lec 2
 : **Solving Linear Equations(I)**
   :  \[[slides-zh](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2024s/slides/LALec2-handout-zh.pdf)\]  
-: An worked Example：[Lec2-WorkedExample](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2024s/slides/LA2-sample.pdf)
+: An worked Example: [Lec2-WorkedExample](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2024s/slides/LA2-sample.pdf)
 
 Lec 3
 : **Matrices**
   :  \[[slides-zh](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2024s/slides/LALec3-handout-zh.pdf)\]  
-: An worked Example：[Lec3-WorkedExample](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2024s/slides/LA3-sample.pdf)
+: An worked Example: [Lec3-WorkedExample](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2024s/slides/LA3-sample.pdf)
 
 Lec 4
 : **Vector Space**
@@ -39,17 +39,17 @@ Lec 6
 Lec 7
 : **Solving Linear Equations(II)**
   :  \[[slides-zh](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2024s/slides/LALec7-handout-zh.pdf)\] 
-: An worked Example：[Lec7-WorkedExample](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2024s/slides/LA7-sample.pdf)
+: An worked Example: [Lec7-WorkedExample](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2024s/slides/LA7-sample.pdf)
 
 Lec 8
 : **Orthogonality and Projection**
   :  \[[slides-zh](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2024s/slides/LALec8-handout-zh.pdf)\] 
-: An worked Example：
+: An worked Example: 
 
 Lec 9
 : **Least Square Approximations and Orthonormal Bases**
   :  \[[slides-zh](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2024s/slides/LALec9-handout-zh.pdf)\] 
-: An worked Example：
+: An worked Example: 
 
 Lec 10
 : **Determinants(I)**
