@@ -53,6 +53,8 @@ Lec 9
 
 Lec 10
 : **Determinants(I)**
+  :  \[[slides-zh](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2024s/slides/LALec10-handout-zh.pdf)\] 
+: An worked Example: 
 
 Lec 11
 : **Determinants(II)**
