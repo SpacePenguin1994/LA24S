@@ -58,6 +58,8 @@ Lec 10
 
 Lec 11
 : **Determinants(II)**
+  :  \[[slides-zh](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2024s/slides/LALec11-handout-zh.pdf)\] 
+: An worked Example: 
 
 Lec 12
 : **Eigenvalues and Eigenvectors**
