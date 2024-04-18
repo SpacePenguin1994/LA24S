@@ -69,3 +69,9 @@ Lec 13
 
 Lec 14
 : **Linear Transformations**
+
+Lec 15
+: **(Optimal) The Singular Value Decomposition(SVD)**
+
+Lec 16
+: **Review**
