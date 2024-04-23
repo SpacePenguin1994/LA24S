@@ -63,6 +63,8 @@ Lec 11
 
 Lec 12
 : **Eigenvalues and Eigenvectors**
+  :  \[[slides-zh](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2024s/slides/LALec12-handout-zh.pdf)\] 
+: An worked Example: 
 
 Lec 13
 : **Symmetric Matrices and Positive Definite Matrices**
