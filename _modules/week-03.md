@@ -31,5 +31,5 @@ HW 7
 : **For Students of  EI:**&thinsp;&thinsp; **HW**{: .label .label-red }Released:[Homework #7-sol](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2024s/homework/LA-hw7forEIsol.pdf)  
 
 HW 8
-: **For Students of CS:** **HW**{: .label .label-red }Released:[Homework #7-sol](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2024s/homework/LA-hw8forCSsol.pdf)  
-: **For Students of  EI:**&thinsp;&thinsp; **HW**{: .label .label-red }Released:[Homework #7-sol](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2024s/homework/LA-hw8forEIsol.pdf)  
+: **For Students of CS:** **HW**{: .label .label-red }Released:[Homework #8-sol](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2024s/homework/LA-hw8forCSsol.pdf)  
+: **For Students of  EI:**&thinsp;&thinsp; **HW**{: .label .label-red }Released:[Homework #8-sol](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2024s/homework/LA-hw8forEIsol.pdf)  
