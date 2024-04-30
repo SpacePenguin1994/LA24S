@@ -44,22 +44,22 @@ Lec 7
 Lec 8
 : **Orthogonality and Projection**
   :  \[[slides-zh](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2024s/slides/LALec8-handout-zh.pdf)\] 
-: An worked Example: 
+: An worked Example: [Lec8-WorkedExample](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2024s/slides/LA8-sample.pdf)
 
 Lec 9
 : **Least Square Approximations and Orthonormal Bases**
   :  \[[slides-zh](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2024s/slides/LALec9-handout-zh.pdf)\] 
-: An worked Example: 
+: An worked Example: [Lec9-WorkedExample](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2024s/slides/LA9-sample.pdf)
 
 Lec 10
 : **Determinants(I)**
   :  \[[slides-zh](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2024s/slides/LALec10-handout-zh.pdf)\] 
-: An worked Example: 
+: An worked Example: [Lec10-WorkedExample](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2024s/slides/LA10-sample.pdf)
 
 Lec 11
 : **Determinants(II)**
   :  \[[slides-zh](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2024s/slides/LALec11-handout-zh.pdf)\] 
-: An worked Example: 
+: An worked Example: [Lec11-WorkedExample](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2024s/slides/LA11-sample.pdf)
 
 Lec 12
 : **Eigenvalues and Eigenvectors**
