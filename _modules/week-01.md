@@ -68,6 +68,8 @@ Lec 12
 
 Lec 13
 : **Symmetric Matrices and Positive Definite Matrices**
+  :  \[[slides-zh](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2024s/slides/LALec13-handout-zh.pdf)\] 
+: An worked Example: 
 
 Lec 14
 : **Linear Transformations**
