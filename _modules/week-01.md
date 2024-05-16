@@ -73,6 +73,7 @@ Lec 13
 
 Lec 14
 : **Linear Transformations**
+  :  \[[slides-zh](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2024s/slides/LALec14-handout-zh.pdf)\] 
 
 Lec 15
 : **(Optimal) The Singular Value Decomposition(SVD)**
