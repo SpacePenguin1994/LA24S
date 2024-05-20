@@ -45,3 +45,7 @@ HW 10
 HW 11
 : **For Students of CS:** **HW**{: .label .label-red }Released:[Homework #11-sol](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2024s/homework/LA-hw11forCSsol.pdf)  
 : **For Students of EI:**&thinsp;&thinsp; **HW**{: .label .label-red }Released:[Homework #11-sol](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2024s/homework/LA-hw11forEIsol.pdf)  
+
+HW 12
+: **For Students of CS:** **HW**{: .label .label-red }Released:[Homework #12-sol](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2024s/homework/LA-hw12forCSsol.pdf)  
+: **For Students of EI:**&thinsp;&thinsp; **HW**{: .label .label-red }Released:[Homework #12-sol](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2024s/homework/LA-hw12forEIsol.pdf)  
