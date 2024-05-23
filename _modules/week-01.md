@@ -77,6 +77,7 @@ Lec 14
 
 Lec 15
 : **(Optimal) The Singular Value Decomposition(SVD)**
+  :  \[[slides-zh](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2024s/slides/LALec15-handout-zh.pdf)\] 
 
 Lec 16
 : **Review**
