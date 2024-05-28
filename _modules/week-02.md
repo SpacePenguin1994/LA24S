@@ -66,3 +66,8 @@ HW 13
 : **For Students of CS:** **HW**{: .label .label-red }Released:[Homework #13](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2024s/homework/LA-hw13forCS.pdf)  
 : **For Students of EI:**&thinsp;&thinsp; **HW**{: .label .label-red }Released:[Homework #13](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2024s/homework/LA-hw13forEI.pdf)  
 : **DUE**{: .label .label-yellow} May 27
+
+HW 14
+: **For Students of CS:** **HW**{: .label .label-red }Released:[Homework #14](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2024s/homework/LA-hw14forCS.pdf)  
+: **For Students of EI:**&thinsp;&thinsp; **HW**{: .label .label-red }Released:[Homework #14](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2024s/homework/LA-hw14forEI.pdf)  
+: **DUE**{: .label .label-yellow} Jun 3
