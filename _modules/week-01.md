@@ -81,3 +81,7 @@ Lec 15
 
 Lec 16
 : **Review**
+
+Summarize
+: **The Full Slides for Linear Algebra**
+  :  \[[slides-zh](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2024s/slides/LALecFull-handout-zh.pdf)\] 
