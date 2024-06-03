@@ -73,8 +73,8 @@ Lec 13
 
 Lec 14
 : **Linear Transformations**
-<!-->  :  \[[slides-zh](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2024s/slides/LALec14-handout-zh.pdf)\] <!-->
   :  \[[slides-zh](../pdf/slides/LALec14-handout-zh.pdf)\]
+<!-->  :  \[[slides-zh](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2024s/slides/LALec14-handout-zh.pdf)\] <!-->
 
 Lec 15
 : **(Optimal) The Singular Value Decomposition(SVD)**
@@ -85,5 +85,5 @@ Lec 16
 
 Summarize
 : **The Full Slides for Linear Algebra**
-<!-->  :  \[[slides-zh](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2024s/slides/LALecFull-handout-zh.pdf)\] <!-->
   :  \[[slides-zh](../pdf/slides/LALecFull-handout-zh.pdf)\]
+<!-->  :  \[[slides-zh](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2024s/slides/LALecFull-handout-zh.pdf)\] <!-->
