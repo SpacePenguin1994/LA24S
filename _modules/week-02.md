@@ -71,3 +71,8 @@ HW 14
 : **For Students of CS:** **HW**{: .label .label-red }Released:[Homework #14](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2024s/homework/LA-hw14forCS.pdf)  
 : **For Students of EI:**&thinsp;&thinsp; **HW**{: .label .label-red }Released:[Homework #14](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2024s/homework/LA-hw14forEI.pdf)  
 : **DUE**{: .label .label-yellow} Jun 3
+
+HW 15
+: **For Students of CS:** **HW**{: .label .label-red }Released:[Homework #15](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2024s/homework/LA-hw15forCS.pdf)  
+: **For Students of EI:**&thinsp;&thinsp; **HW**{: .label .label-red }Released:[Homework #15](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2024s/homework/LA-hw15forEI.pdf)  
+: **DUE**{: .label .label-yellow}  No need to submit.

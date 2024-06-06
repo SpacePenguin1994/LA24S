@@ -57,6 +57,13 @@ We have set up a course questionnaire:
 
 Everyone is welcome to submit his/her questions or suggestions about this course.
 
+**Updated in Jun 6, 2022**
+
+Since we will finish the course in the next week, we have set up a new questionnaire for collecting the feedback of this course:
+
+- [《线性代数》完课调查问卷](https://www.wjx.cn/vm/YfWr24n.aspx# )
+
+The questionnaire is not mandatory, but I will appreciate it if you can spend a few minutes to fill it out. Thank you!
 
 # Announcements
 
