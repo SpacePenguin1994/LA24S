@@ -64,12 +64,12 @@ Lec 11
 Lec 12
 : **Eigenvalues and Eigenvectors**
   :  \[[slides-zh](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2024s/slides/LALec12-handout-zh.pdf)\] 
-: An worked Example: 
+: An worked Example: [Lec12-WorkedExample](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2024s/slides/LA12-sample.pdf)
 
 Lec 13
 : **Symmetric Matrices and Positive Definite Matrices**
   :  \[[slides-zh](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2024s/slides/LALec13-handout-zh.pdf)\] 
-: An worked Example: 
+: An worked Example: [Lec13-WorkedExample](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2024s/slides/LA13-sample.pdf)
 
 Lec 14
 : **Linear Transformations**
